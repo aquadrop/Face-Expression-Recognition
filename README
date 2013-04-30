@@ -7,6 +7,12 @@ This is my project for CSC2515 at UofT, please feel free to use
 5. Edit scheme to put "<some path>/dataset.csv" into the environment argument
 6. Edit scheme to properly set the working directory
 
-- Directory also includes a compiled opencv-2.4.5. Just add frameworks from directory "./release/lib" and add Header Search Path with "./release/include"
+- Directory also contains a compiled opencv-2.4.5. 
+- A dataset is provides, call JAFFE, in the folder "DataSet", accompanied with a script to generate the csv file.
+- Ideas are not new, derived from the papers provided.
+- Just add frameworks from directory "./release/lib" 
+- And add Header Search Path with "./release/include"
 
 - https://github.com/aquadrop/FaceExpressionRecognition.git
+
+- Enjoy!
