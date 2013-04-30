@@ -1,3 +1,5 @@
+This is my project for CSC2515 at UofT, please feel free to use
+
 1. Use Xcode to run the program.
 2. Add related frameworks from directory "$(SRCROOT)/opencv-2.4.5/release/lib"
 3. Add Header Search Path with "$(SRCROOT)/opencv-2.4.5/release/include"
@@ -5,4 +7,6 @@
 5. Edit scheme to put "<some path>/dataset.csv" into the environment argument
 6. Edit scheme to properly set the working directory
 
-https://github.com/aquadrop/FaceExpressionRecognition.git
+- Directory also includes a compiled opencv-2.4.5. Just add frameworks from directory "./release/lib" and add Header Search Path with "./release/include"
+
+- https://github.com/aquadrop/FaceExpressionRecognition.git
