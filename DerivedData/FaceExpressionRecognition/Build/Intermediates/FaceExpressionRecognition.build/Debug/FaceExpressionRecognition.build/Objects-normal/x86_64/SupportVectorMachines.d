@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/FaceExpressionRecognition/SupportVectorMachines.cpp \
+  /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/FaceExpressionRecognition/SupportVectorMachines.h \
+  /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/opencv-2.4.5/release/include/opencv2/core/core.hpp \
+  /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/opencv-2.4.5/release/include/opencv2/core/types_c.h \
+  /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/opencv-2.4.5/release/include/opencv2/core/version.hpp \
+  /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/opencv-2.4.5/release/include/opencv2/core/operations.hpp \
+  /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/opencv-2.4.5/release/include/opencv2/core/mat.hpp \
+  /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/opencv-2.4.5/release/include/opencv2/contrib/contrib.hpp \
+  /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/opencv-2.4.5/release/include/opencv2/imgproc/imgproc.hpp \
+  /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/opencv-2.4.5/release/include/opencv2/imgproc/types_c.h \
+  /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/opencv-2.4.5/release/include/opencv2/core/core_c.h \
+  /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/opencv-2.4.5/release/include/opencv2/features2d/features2d.hpp \
+  /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/opencv-2.4.5/release/include/opencv2/flann/miniflann.hpp \
+  /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/opencv-2.4.5/release/include/opencv2/flann/defines.h \
+  /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/opencv-2.4.5/release/include/opencv2/flann/config.h \
+  /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/opencv-2.4.5/release/include/opencv2/objdetect/objdetect.hpp \
+  /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/opencv-2.4.5/release/include/opencv2/contrib/retina.hpp \
+  /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/opencv-2.4.5/release/include/opencv2/contrib/openfabmap.hpp \
+  /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/opencv-2.4.5/release/include/opencv2/highgui/highgui.hpp \
+  /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/opencv-2.4.5/release/include/opencv2/highgui/highgui_c.h \
+  /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/opencv-2.4.5/release/include/opencv2/ml/ml.hpp \
+  /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/FaceExpressionRecognition/Image.h

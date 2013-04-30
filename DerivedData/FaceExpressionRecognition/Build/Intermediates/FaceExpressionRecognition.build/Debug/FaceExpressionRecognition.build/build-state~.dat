@@ -1,0 +1,288 @@
+TFaceExpressionRecognition
+v5
+r1
+cCheck dependencies
+cCompileC DerivedData/FaceExpressionRecognition/Build/Intermediates/FaceExpressionRecognition.build/Debug/FaceExpressionRecognition.build/Objects-normal/x86_64/main.o /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/FaceExpressionRecognition/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/FaceExpressionRecognition/Build/Intermediates/FaceExpressionRecognition.build/Debug/FaceExpressionRecognition.build/Objects-normal/x86_64/Image.o /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/FaceExpressionRecognition/Image.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/FaceExpressionRecognition/Build/Intermediates/FaceExpressionRecognition.build/Debug/FaceExpressionRecognition.build/Objects-normal/x86_64/CameraModule.o /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/FaceExpressionRecognition/CameraModule.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/FaceExpressionRecognition/Build/Intermediates/FaceExpressionRecognition.build/Debug/FaceExpressionRecognition.build/Objects-normal/x86_64/FaceDetector.o /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/FaceExpressionRecognition/FaceDetector.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c00000000509E67CE00000000000000AA
+t1352558542
+s170
+
+N/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/DerivedData/FaceExpressionRecognition/Build/Intermediates/FaceExpressionRecognition.build/Debug/FaceExpressionRecognition.build/Objects-normal/x86_64/CameraModule.o
+t2
+s0
+
+N/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/DerivedData/FaceExpressionRecognition/Build/Intermediates/FaceExpressionRecognition.build/Debug/FaceExpressionRecognition.build/Objects-normal/x86_64/FaceDetector.o
+t2
+s0
+
+N/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/DerivedData/FaceExpressionRecognition/Build/Intermediates/FaceExpressionRecognition.build/Debug/FaceExpressionRecognition.build/Objects-normal/x86_64/FaceExpressionRecognition.LinkFileList
+c0000000051803BF7000000000000064B
+t1367358455
+s1611
+
+N/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/DerivedData/FaceExpressionRecognition/Build/Intermediates/FaceExpressionRecognition.build/Debug/FaceExpressionRecognition.build/Objects-normal/x86_64/GaborFilter.o
+t2
+s0
+
+N/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/DerivedData/FaceExpressionRecognition/Build/Intermediates/FaceExpressionRecognition.build/Debug/FaceExpressionRecognition.build/Objects-normal/x86_64/Image.o
+t2
+s0
+
+N/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/DerivedData/FaceExpressionRecognition/Build/Intermediates/FaceExpressionRecognition.build/Debug/FaceExpressionRecognition.build/Objects-normal/x86_64/NeuralNetwork.o
+t2
+s0
+
+N/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/DerivedData/FaceExpressionRecognition/Build/Intermediates/FaceExpressionRecognition.build/Debug/FaceExpressionRecognition.build/Objects-normal/x86_64/SupportVectorMachines.o
+t2
+s0
+
+N/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/DerivedData/FaceExpressionRecognition/Build/Intermediates/FaceExpressionRecognition.build/Debug/FaceExpressionRecognition.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/DerivedData/FaceExpressionRecognition/Build/Products/Debug/FaceExpressionRecognition
+t2
+s0
+
+N/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/FaceExpressionRecognition/CameraModule.cpp
+c000000005180319C0000000000000E4B
+t1367355804
+s3659
+
+N/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/FaceExpressionRecognition/FaceDetector.cpp
+c000000005180326A0000000000000B2F
+t1367356010
+s2863
+
+N/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/FaceExpressionRecognition/GaborFilter.cpp
+c00000000518032A80000000000000C67
+t1367356072
+s3175
+
+N/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/FaceExpressionRecognition/Image.cpp
+c000000005180321400000000000018C0
+t1367355924
+s6336
+
+N/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/FaceExpressionRecognition/NeuralNetwork.cpp
+c00000000518032E1000000000000305D
+t1367356129
+s12381
+
+N/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/FaceExpressionRecognition/SupportVectorMachines.cpp
+c00000000518033260000000000001543
+t1367356198
+s5443
+
+N/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/FaceExpressionRecognition/main.cpp
+c00000000518031340000000000000BA5
+t1367355700
+s2981
+i<iostream>
+
+N/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/opencv-2.4.5/release/lib/libopencv_calib3d.2.4.5.dylib
+c000000005180369400000000000A5DA0
+t1367357076
+s679328
+
+N/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/opencv-2.4.5/release/lib/libopencv_contrib.2.4.5.dylib
+c000000005180373E0000000000108A64
+t1367357246
+s1084004
+
+N/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/opencv-2.4.5/release/lib/libopencv_core.2.4.5.dylib
+c0000000051803544000000000025D9E4
+t1367356740
+s2480612
+
+N/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/opencv-2.4.5/release/lib/libopencv_features2d.2.4.5.dylib
+c00000000518035B200000000000BBEE8
+t1367356850
+s769768
+
+N/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/opencv-2.4.5/release/lib/libopencv_flann.2.4.5.dylib
+c000000005180359A0000000000085424
+t1367356826
+s545828
+
+N/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/opencv-2.4.5/release/lib/libopencv_gpu.2.4.5.dylib
+c00000000518037D5000000000002B378
+t1367357397
+s177016
+
+N/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/opencv-2.4.5/release/lib/libopencv_haartraining_engine.a
+c00000000518038CE0000000000038480
+t1367357646
+s230528
+
+N/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/opencv-2.4.5/release/lib/libopencv_highgui.2.4.5.dylib
+c0000000051803593000000000023467C
+t1367356819
+s2311804
+
+N/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/opencv-2.4.5/release/lib/libopencv_imgproc.2.4.5.dylib
+c000000005180357B000000000022463C
+t1367356795
+s2246204
+
+N/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/opencv-2.4.5/release/lib/libopencv_legacy.2.4.5.dylib
+c000000005180379F0000000000116648
+t1367357343
+s1140296
+
+N/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/opencv-2.4.5/release/lib/libopencv_ml.2.4.5.dylib
+c00000000518036CE000000000007E918
+t1367357134
+s518424
+
+N/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/opencv-2.4.5/release/lib/libopencv_nonfree.2.4.5.dylib
+c000000005180387F000000000003609C
+t1367357567
+s221340
+
+N/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/opencv-2.4.5/release/lib/libopencv_objdetect.2.4.5.dylib
+c000000005180370C0000000000088294
+t1367357196
+s557716
+
+N/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/opencv-2.4.5/release/lib/libopencv_ocl.2.4.5.dylib
+c00000000518038320000000000255AEC
+t1367357490
+s2448108
+
+N/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/opencv-2.4.5/release/lib/libopencv_photo.2.4.5.dylib
+c0000000051803744000000000002071C
+t1367357252
+s132892
+
+N/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/opencv-2.4.5/release/lib/libopencv_stitching.2.4.5.dylib
+c00000000518038A5000000000008EB74
+t1367357605
+s584564
+
+N/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/opencv-2.4.5/release/lib/libopencv_superres.2.4.5.dylib
+c00000000518038B900000000000349B4
+t1367357625
+s215476
+
+N/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/opencv-2.4.5/release/lib/libopencv_ts.2.4.5.dylib
+c00000000518035C300000000000C4FBC
+t1367356867
+s806844
+
+N/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/opencv-2.4.5/release/lib/libopencv_video.2.4.5.dylib
+c00000000518036E50000000000053428
+t1367357157
+s341032
+
+N/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/opencv-2.4.5/release/lib/libopencv_videostab.2.4.5.dylib
+c00000000518038C8000000000003A5D0
+t1367357640
+s239056
+
+CBuild AST from /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/FaceExpressionRecognition/CameraModule.cpp
+r0
+
+CBuild AST from /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/FaceExpressionRecognition/FaceDetector.cpp
+r0
+
+CBuild AST from /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/FaceExpressionRecognition/GaborFilter.cpp
+r0
+
+CBuild AST from /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/FaceExpressionRecognition/Image.cpp
+r0
+
+CBuild AST from /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/FaceExpressionRecognition/NeuralNetwork.cpp
+r0
+
+CBuild AST from /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/FaceExpressionRecognition/SupportVectorMachines.cpp
+r0
+
+CBuild AST from /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/FaceExpressionRecognition/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies121512777330b741^034217777330b741^---0#1#0#--18"Check dependencies36"6E0104D9-B024-42D8-BEA9-2F399DD4C24F-
+
+CCompileC DerivedData/FaceExpressionRecognition/Build/Intermediates/FaceExpressionRecognition.build/Debug/FaceExpressionRecognition.build/Objects-normal/x86_64/CameraModule.o /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/FaceExpressionRecognition/CameraModule.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s389051255.156181
+e389051258.390456
+r0
+xCompileC
+xDerivedData/FaceExpressionRecognition/Build/Intermediates/FaceExpressionRecognition.build/Debug/FaceExpressionRecognition.build/Objects-normal/x86_64/CameraModule.o
+x/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/FaceExpressionRecognition/CameraModule.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/FaceExpressionRecognition/CameraModule.cpp:8:
+oIn file included from /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/FaceExpressionRecognition/CameraModule.h:14:
+o/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/FaceExpressionRecognition/NeuralNetwork.h:19:10: fatal error: 'ImageTracker.h' file not found
+o#include "ImageTracker.h"
+o         ^
+o1 error generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Compile /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/FaceExpressionRecognition/CameraModule.cppfb942f777330b741^3fe2637a7330b741^-483"In file included from /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/FaceExpressionRecognition/CameraModule.cpp:8:In file included from /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/FaceExpressionRecognition/CameraModule.h:14:/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/FaceExpressionRecognition/NeuralNetwork.h:19:10: fatal error: 'ImageTracker.h' file not found#include "ImageTracker.h"         ^1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@31"'ImageTracker.h' file not found-389051258#18446744073709551615#0#2(2@133"In file included from /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/FaceExpressionRecognition/CameraModule.cpp:8:-389051258#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@124"file://localhost/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/FaceExpressionRecognition/CameraModule.cpp0000000000000000^7#9#7#9#141#0#21"Clang LLVM 1.0 Notice--2@132"In file included from /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/FaceExpressionRecognition/CameraModule.h:14:-389051258#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@122"file://localhost/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/FaceExpressionRecognition/CameraModule.h0000000000000000^13#9#13#9#325#0#21"Clang LLVM 1.0 Notice--2#27"com.apple.dt.IDE.diagnostic3@123"file://localhost/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/FaceExpressionRecognition/NeuralNetwork.h0000000000000000^18#9#18#9#453#0#29"Lexical or Preprocessor Issue--0#0#0#-19%DVTDocumentLocation4@124"file://localhost/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/FaceExpressionRecognition/CameraModule.cpp0000000000000000^3926"CompileC DerivedData/FaceExpressionRecognition/Build/Intermediates/FaceExpressionRecognition.build/Debug/FaceExpressionRecognition.build/Objects-normal/x86_64/CameraModule.o FaceExpressionRecognition/CameraModule.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/DerivedData/FaceExpressionRecognition/Build/Intermediates/FaceExpressionRecognition.build/Debug/FaceExpressionRecognition.build/FaceExpressionRecognition-generated-files.hmap -I/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/DerivedData/FaceExpressionRecognition/Build/Intermediates/FaceExpressionRecognition.build/Debug/FaceExpressionRecognition.build/FaceExpressionRecognition-own-target-headers.hmap -I/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/DerivedData/FaceExpressionRecognition/Build/Intermediates/FaceExpressionRecognition.build/Debug/FaceExpressionRecognition.build/FaceExpressionRecognition-all-target-headers.hmap -iquote /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/DerivedData/FaceExpressionRecognition/Build/Intermediates/FaceExpressionRecognition.build/Debug/FaceExpressionRecognition.build/FaceExpressionRecognition-project-headers.hmap -I/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/DerivedData/FaceExpressionRecognition/Build/Products/Debug/include -I/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/opencv-2.4.5/release/include -I/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/DerivedData/FaceExpressionRecognition/Build/Intermediates/FaceExpressionRecognition.build/Debug/FaceExpressionRecognition.build/DerivedSources/x86_64 -I/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/DerivedData/FaceExpressionRecognition/Build/Intermediates/FaceExpressionRecognition.build/Debug/FaceExpressionRecognition.build/DerivedSources -F/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/DerivedData/FaceExpressionRecognition/Build/Products/Debug -MMD -MT dependencies -MF /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/DerivedData/FaceExpressionRecognition/Build/Intermediates/FaceExpressionRecognition.build/Debug/FaceExpressionRecognition.build/Objects-normal/x86_64/CameraModule.d --serialize-diagnostics /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/DerivedData/FaceExpressionRecognition/Build/Intermediates/FaceExpressionRecognition.build/Debug/FaceExpressionRecognition.build/Objects-normal/x86_64/CameraModule.dia -c /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/FaceExpressionRecognition/CameraModule.cpp -o /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/DerivedData/FaceExpressionRecognition/Build/Intermediates/FaceExpressionRecognition.build/Debug/FaceExpressionRecognition.build/Objects-normal/x86_64/CameraModule.o36"28991FD2-E388-4872-BF63-B2FC78CEAC77-
+
+CCompileC DerivedData/FaceExpressionRecognition/Build/Intermediates/FaceExpressionRecognition.build/Debug/FaceExpressionRecognition.build/Objects-normal/x86_64/FaceDetector.o /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/FaceExpressionRecognition/FaceDetector.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s389051255.156623
+e389051258.800013
+r1
+xCompileC
+xDerivedData/FaceExpressionRecognition/Build/Intermediates/FaceExpressionRecognition.build/Debug/FaceExpressionRecognition.build/Objects-normal/x86_64/FaceDetector.o
+x/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/FaceExpressionRecognition/FaceDetector.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Compile /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/FaceExpressionRecognition/FaceDetector.cppa2992f777330b741^3ececc7a7330b741^---0#0#0#-19%DVTDocumentLocation2@124"file://localhost/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/FaceExpressionRecognition/FaceDetector.cpp0000000000000000^3926"CompileC DerivedData/FaceExpressionRecognition/Build/Intermediates/FaceExpressionRecognition.build/Debug/FaceExpressionRecognition.build/Objects-normal/x86_64/FaceDetector.o FaceExpressionRecognition/FaceDetector.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/DerivedData/FaceExpressionRecognition/Build/Intermediates/FaceExpressionRecognition.build/Debug/FaceExpressionRecognition.build/FaceExpressionRecognition-generated-files.hmap -I/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/DerivedData/FaceExpressionRecognition/Build/Intermediates/FaceExpressionRecognition.build/Debug/FaceExpressionRecognition.build/FaceExpressionRecognition-own-target-headers.hmap -I/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/DerivedData/FaceExpressionRecognition/Build/Intermediates/FaceExpressionRecognition.build/Debug/FaceExpressionRecognition.build/FaceExpressionRecognition-all-target-headers.hmap -iquote /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/DerivedData/FaceExpressionRecognition/Build/Intermediates/FaceExpressionRecognition.build/Debug/FaceExpressionRecognition.build/FaceExpressionRecognition-project-headers.hmap -I/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/DerivedData/FaceExpressionRecognition/Build/Products/Debug/include -I/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/opencv-2.4.5/release/include -I/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/DerivedData/FaceExpressionRecognition/Build/Intermediates/FaceExpressionRecognition.build/Debug/FaceExpressionRecognition.build/DerivedSources/x86_64 -I/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/DerivedData/FaceExpressionRecognition/Build/Intermediates/FaceExpressionRecognition.build/Debug/FaceExpressionRecognition.build/DerivedSources -F/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/DerivedData/FaceExpressionRecognition/Build/Products/Debug -MMD -MT dependencies -MF /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/DerivedData/FaceExpressionRecognition/Build/Intermediates/FaceExpressionRecognition.build/Debug/FaceExpressionRecognition.build/Objects-normal/x86_64/FaceDetector.d --serialize-diagnostics /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/DerivedData/FaceExpressionRecognition/Build/Intermediates/FaceExpressionRecognition.build/Debug/FaceExpressionRecognition.build/Objects-normal/x86_64/FaceDetector.dia -c /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/FaceExpressionRecognition/FaceDetector.cpp -o /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/DerivedData/FaceExpressionRecognition/Build/Intermediates/FaceExpressionRecognition.build/Debug/FaceExpressionRecognition.build/Objects-normal/x86_64/FaceDetector.o36"04AC45D1-21B8-4EBB-8D9A-891C9FF5A920-
+
+CCompileC DerivedData/FaceExpressionRecognition/Build/Intermediates/FaceExpressionRecognition.build/Debug/FaceExpressionRecognition.build/Objects-normal/x86_64/GaborFilter.o /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/FaceExpressionRecognition/GaborFilter.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/FaceExpressionRecognition/Build/Intermediates/FaceExpressionRecognition.build/Debug/FaceExpressionRecognition.build/Objects-normal/x86_64/Image.o /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/FaceExpressionRecognition/Image.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s389051255.156202
+e389051258.901229
+r1
+xCompileC
+xDerivedData/FaceExpressionRecognition/Build/Intermediates/FaceExpressionRecognition.build/Debug/FaceExpressionRecognition.build/Objects-normal/x86_64/Image.o
+x/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/FaceExpressionRecognition/Image.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Compile /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/FaceExpressionRecognition/Image.cpp0b992f777330b741^0ab9e67a7330b741^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/FaceExpressionRecognition/Image.cpp0000000000000000^3884"CompileC DerivedData/FaceExpressionRecognition/Build/Intermediates/FaceExpressionRecognition.build/Debug/FaceExpressionRecognition.build/Objects-normal/x86_64/Image.o FaceExpressionRecognition/Image.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/DerivedData/FaceExpressionRecognition/Build/Intermediates/FaceExpressionRecognition.build/Debug/FaceExpressionRecognition.build/FaceExpressionRecognition-generated-files.hmap -I/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/DerivedData/FaceExpressionRecognition/Build/Intermediates/FaceExpressionRecognition.build/Debug/FaceExpressionRecognition.build/FaceExpressionRecognition-own-target-headers.hmap -I/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/DerivedData/FaceExpressionRecognition/Build/Intermediates/FaceExpressionRecognition.build/Debug/FaceExpressionRecognition.build/FaceExpressionRecognition-all-target-headers.hmap -iquote /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/DerivedData/FaceExpressionRecognition/Build/Intermediates/FaceExpressionRecognition.build/Debug/FaceExpressionRecognition.build/FaceExpressionRecognition-project-headers.hmap -I/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/DerivedData/FaceExpressionRecognition/Build/Products/Debug/include -I/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/opencv-2.4.5/release/include -I/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/DerivedData/FaceExpressionRecognition/Build/Intermediates/FaceExpressionRecognition.build/Debug/FaceExpressionRecognition.build/DerivedSources/x86_64 -I/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/DerivedData/FaceExpressionRecognition/Build/Intermediates/FaceExpressionRecognition.build/Debug/FaceExpressionRecognition.build/DerivedSources -F/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/DerivedData/FaceExpressionRecognition/Build/Products/Debug -MMD -MT dependencies -MF /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/DerivedData/FaceExpressionRecognition/Build/Intermediates/FaceExpressionRecognition.build/Debug/FaceExpressionRecognition.build/Objects-normal/x86_64/Image.d --serialize-diagnostics /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/DerivedData/FaceExpressionRecognition/Build/Intermediates/FaceExpressionRecognition.build/Debug/FaceExpressionRecognition.build/Objects-normal/x86_64/Image.dia -c /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/FaceExpressionRecognition/Image.cpp -o /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/DerivedData/FaceExpressionRecognition/Build/Intermediates/FaceExpressionRecognition.build/Debug/FaceExpressionRecognition.build/Objects-normal/x86_64/Image.o36"58F8D77F-654A-46E0-8DA1-57F34C0D6CAA-
+
+CCompileC DerivedData/FaceExpressionRecognition/Build/Intermediates/FaceExpressionRecognition.build/Debug/FaceExpressionRecognition.build/Objects-normal/x86_64/NeuralNetwork.o /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/FaceExpressionRecognition/NeuralNetwork.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/FaceExpressionRecognition/Build/Intermediates/FaceExpressionRecognition.build/Debug/FaceExpressionRecognition.build/Objects-normal/x86_64/SupportVectorMachines.o /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/FaceExpressionRecognition/SupportVectorMachines.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/FaceExpressionRecognition/Build/Intermediates/FaceExpressionRecognition.build/Debug/FaceExpressionRecognition.build/Objects-normal/x86_64/main.o /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/FaceExpressionRecognition/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s389051255.156175
+e389051258.390281
+r0
+xCompileC
+xDerivedData/FaceExpressionRecognition/Build/Intermediates/FaceExpressionRecognition.build/Debug/FaceExpressionRecognition.build/Objects-normal/x86_64/main.o
+x/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/FaceExpressionRecognition/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/FaceExpressionRecognition/main.cpp:11:
+oIn file included from /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/FaceExpressionRecognition/CameraModule.h:14:
+o/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/FaceExpressionRecognition/NeuralNetwork.h:19:10: fatal error: 'ImageTracker.h' file not found
+o#include "ImageTracker.h"
+o         ^
+o1 error generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Compile /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/FaceExpressionRecognition/main.cpp74982f777330b741^1de6637a7330b741^-476"In file included from /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/FaceExpressionRecognition/main.cpp:11:In file included from /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/FaceExpressionRecognition/CameraModule.h:14:/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/FaceExpressionRecognition/NeuralNetwork.h:19:10: fatal error: 'ImageTracker.h' file not found#include "ImageTracker.h"         ^1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@31"'ImageTracker.h' file not found-389051258#18446744073709551615#0#2(2@126"In file included from /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/FaceExpressionRecognition/main.cpp:11:-389051258#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@116"file://localhost/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/FaceExpressionRecognition/main.cpp0000000000000000^10#9#10#9#186#0#21"Clang LLVM 1.0 Notice--2@132"In file included from /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/FaceExpressionRecognition/CameraModule.h:14:-389051258#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@122"file://localhost/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/FaceExpressionRecognition/CameraModule.h0000000000000000^13#9#13#9#325#0#21"Clang LLVM 1.0 Notice--2#27"com.apple.dt.IDE.diagnostic3@123"file://localhost/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/FaceExpressionRecognition/NeuralNetwork.h0000000000000000^18#9#18#9#453#0#29"Lexical or Preprocessor Issue--0#0#0#-19%DVTDocumentLocation4@116"file://localhost/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/FaceExpressionRecognition/main.cpp0000000000000000^3878"CompileC DerivedData/FaceExpressionRecognition/Build/Intermediates/FaceExpressionRecognition.build/Debug/FaceExpressionRecognition.build/Objects-normal/x86_64/main.o FaceExpressionRecognition/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/DerivedData/FaceExpressionRecognition/Build/Intermediates/FaceExpressionRecognition.build/Debug/FaceExpressionRecognition.build/FaceExpressionRecognition-generated-files.hmap -I/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/DerivedData/FaceExpressionRecognition/Build/Intermediates/FaceExpressionRecognition.build/Debug/FaceExpressionRecognition.build/FaceExpressionRecognition-own-target-headers.hmap -I/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/DerivedData/FaceExpressionRecognition/Build/Intermediates/FaceExpressionRecognition.build/Debug/FaceExpressionRecognition.build/FaceExpressionRecognition-all-target-headers.hmap -iquote /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/DerivedData/FaceExpressionRecognition/Build/Intermediates/FaceExpressionRecognition.build/Debug/FaceExpressionRecognition.build/FaceExpressionRecognition-project-headers.hmap -I/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/DerivedData/FaceExpressionRecognition/Build/Products/Debug/include -I/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/opencv-2.4.5/release/include -I/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/DerivedData/FaceExpressionRecognition/Build/Intermediates/FaceExpressionRecognition.build/Debug/FaceExpressionRecognition.build/DerivedSources/x86_64 -I/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/DerivedData/FaceExpressionRecognition/Build/Intermediates/FaceExpressionRecognition.build/Debug/FaceExpressionRecognition.build/DerivedSources -F/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/DerivedData/FaceExpressionRecognition/Build/Products/Debug -MMD -MT dependencies -MF /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/DerivedData/FaceExpressionRecognition/Build/Intermediates/FaceExpressionRecognition.build/Debug/FaceExpressionRecognition.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/DerivedData/FaceExpressionRecognition/Build/Intermediates/FaceExpressionRecognition.build/Debug/FaceExpressionRecognition.build/Objects-normal/x86_64/main.dia -c /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/FaceExpressionRecognition/main.cpp -o /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/DerivedData/FaceExpressionRecognition/Build/Intermediates/FaceExpressionRecognition.build/Debug/FaceExpressionRecognition.build/Objects-normal/x86_64/main.o36"ACFBB0EB-913A-4102-BE30-66C4A0D861FB-
+
+CLd /Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/DerivedData/FaceExpressionRecognition/Build/Products/Debug/FaceExpressionRecognition normal x86_64
+r0
+

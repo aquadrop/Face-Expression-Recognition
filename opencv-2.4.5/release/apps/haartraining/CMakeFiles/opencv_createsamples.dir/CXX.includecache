@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/opencv-2.4.5/apps/haartraining/createsamples.cpp
+cstdio
+-
+cstring
+-
+cstdlib
+-
+cmath
+-
+ctime
+-
+cvhaartraining.h
+/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/opencv-2.4.5/apps/haartraining/cvhaartraining.h
+
+/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition/opencv-2.4.5/apps/haartraining/cvhaartraining.h
+

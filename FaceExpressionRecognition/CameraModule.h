@@ -10,5 +10,15 @@
 #define __FaceExpressionRecognition__CameraModule__
 
 #include <iostream>
+//#include "SupportVectorMachines.h"
+#include "NeuralNetwork.h"
+
+class CameraModule
+{
+public:
+    CameraModule();
+    //void run(CvSVM&, cv::Size&, bool);
+    void run(NeuralNetwork*);
+};
 
 #endif /* defined(__FaceExpressionRecognition__CameraModule__) */
