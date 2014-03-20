@@ -4,11 +4,13 @@
 <dict>
 	<key>FoundWorkingCopyPaths</key>
 	<array>
-		<string>/Users/jianweixu</string>
+		<string>/Users/jianweixu/Documents/Project/Face/FaceExpressionRecognition</string>
 	</array>
 	<key>LastWorkingCopyScanDate</key>
-	<date>2013-04-30T22:54:09Z</date>
+	<date>2013-07-03T17:24:54Z</date>
+	<key>MissingFilePaths</key>
+	<array/>
 	<key>Version</key>
-	<integer>3</integer>
+	<integer>5</integer>
 </dict>
 </plist>

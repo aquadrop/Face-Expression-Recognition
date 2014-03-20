@@ -93,7 +93,7 @@
 		496A3B461730684D007D14E6 /* FaceExpressionRecognition.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = FaceExpressionRecognition.1; sourceTree = "<group>"; };
 		496A3B5A173068DE007D14E6 /* CameraModule.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = CameraModule.cpp; sourceTree = "<group>"; };
 		496A3B5B173068DE007D14E6 /* CameraModule.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CameraModule.h; sourceTree = "<group>"; };
-		496A3B6017306964007D14E6 /* Image.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Image.cpp; sourceTree = "<group>"; };
+		496A3B6017306964007D14E6 /* Image.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Image.cpp; path = FaceExpressionRecognition/Image.cpp; sourceTree = SOURCE_ROOT; };
 		496A3B6117306964007D14E6 /* Image.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Image.h; sourceTree = "<group>"; };
 		496A3B63173069CF007D14E6 /* FaceDetector.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = FaceDetector.cpp; sourceTree = "<group>"; };
 		496A3B64173069CF007D14E6 /* FaceDetector.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FaceDetector.h; path = FaceExpressionRecognition/FaceDetector.h; sourceTree = SOURCE_ROOT; };

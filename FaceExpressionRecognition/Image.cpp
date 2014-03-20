@@ -126,7 +126,7 @@ void Image::read_csv(const string &filename, Image *train, Image *test)
     Mat src;
     int count = 0;
     int splitcount = 0;
-    int splitratio = 4;
+    int splitratio = 3;
     while (getline(file, line))
     {
         stringstream liness(line);
