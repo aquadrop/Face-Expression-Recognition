@@ -13,6 +13,14 @@ This is my project for CSC2515 at UofT, please feel free to use
 - A dataset is provided, call JAFFE, in the folder "DataSet", accompanied with a script to generate the csv file.
 - Ideas are derived from the papers provided.
 
+Recogition Rate: (Given 1:1 Training & Test set)
+0 14 15
+1 10 14
+2 13 16
+3 13 16
+4 12 15
+5 13 15
+6 14 15
 
 - https://github.com/aquadrop/FaceExpressionRecognition.git
 
